@@ -19,3 +19,12 @@ Configuration
 ---
 
 This package by itself does not need any configuration efforts, it's just a core library of Native Gateway.
+
+Related projects
+---
+
+This repository includes prebuild native libraries, the sources are available at the following URLs:
+* https://github.com/vedi/native-gateway-common-android
+* https://github.com/vedi/native-gateway-unity3d-android
+* https://github.com/vedi/native-gateway-common-ios
+* https://github.com/vedi/native-gateway-unity3d-ios
